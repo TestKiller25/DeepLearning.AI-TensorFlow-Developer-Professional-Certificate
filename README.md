@@ -268,5 +268,5 @@ For more you can check **[course info](https://www.deeplearning.ai/courses/tenso
     </details>
   - ---
 
-## <b>Referece<b>
+## <b>Reference<b>
 <b>[DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)<b>
